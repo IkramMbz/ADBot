@@ -9,7 +9,7 @@
     <a href="https://github.com/IkramMbz">
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/lst-commit-01-23.svg" alt="last commit" />
     </a>
-    <a href="">
+    <a href="https://creativecommons.org/publicdomain/zero/1.0/">
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/licence-cc0.svg" alt="cc0" />
     </a>
   </div>

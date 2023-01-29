@@ -34,7 +34,7 @@
 <br />
 <div>
   <h2>Installation</h2>
-  <p>1. Clonez le répertoire sur votre machine locale.</p>
+  <p>1. Clonez le dépôt sur votre machine locale.</p>
  
   ```bash
   git clone https://github.com/IkramMbz/ADBot.git

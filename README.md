@@ -23,7 +23,7 @@
     </a>
   </div>
   <br />
-  <p align="left">Avant de lancer le code, il est important de noter que le nombre d'images téléchargées en haute résolution peut être très élevé (plus de 100 000). Veuillez vous assurer que vous avez suffisamment d'espace de stockage disponible sur votre disque dur pour stocker ces images, car il est possible que votre disque dur se remplisse rapidement.</p>
+  <p align="left">Avant de lancer le code, il est important de noter que le nombre d'images téléchargées en haute résolution peut être très élevé. Veuillez vous assurer que vous avez suffisamment d'espace de stockage disponible sur votre disque dur pour stocker ces images, car il est possible que votre disque dur se remplisse rapidement.</p>
 </div>
 
 <br />
@@ -60,24 +60,17 @@
 <br />
 <div>
   <h2>Utilisation</h2>
-  <p>1. Run the script using Python: </p>
+  <p>1. Exécutez le script depuis le dossier où il se trouve en utilisant l'invite de commande.</p>
   
   ```bash
   python adbot.py
   ```
   
   <br />
-  <p>2. Le script vous demandera l'index de la ligne de départ (dans le fichier des œuvres) que vous souhaitez télécharger et le chemin du dossier dans lequel vous souhaitez enregistrer les images.</p>
-  
+  <p>2. Le script vous demandera alors la ligne du fichier des œuvres où commencer le téléchargement. Cela est utile si vous voulez télécharger les œuvres en plusieurs fois.</p>
+
   <br />
-  <p>3. Par exemple: </p>
-  
-  ```bash
-  artDownloader(imagesIds, imagesTitles, 0, "downloadedImages/")
-  ```
-  
-  <br />
-  <p>4. Commencez à télécharger vos œuvres et profitez de la beauté de l'art sur votre appareil !</p>
+  <p>3. Profitez de la beauté de l'art sur votre appareil !</p>
   
   <h3>Note</h3>
   <p>Si une image n'est pas trouvée, le titre de l'illustration sera écrit dans un fichier 'log.txt' pour un téléchargement manuel ultérieur.</p>
@@ -100,7 +93,8 @@
 <div class="ikram">
 <br />
 <br />
-<a href="https://mbechezi.website">
+<a href="https://mbechezi.website" style="border-radius: 50%;">
+	![image]([your-image-source](https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram.webp)){: .border-radius-50}
   <img width="90px" height="90px" style="border-radius: 50%;" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram.webp" />
 </a>
 <br />
@@ -109,7 +103,7 @@
 import * from 'my-skills'
 
 function greetings() {
-	let ikramSaid = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
+	let ikramMbechezi = '👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :';
   	return <Passion />
 }
 ```

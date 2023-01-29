@@ -7,7 +7,7 @@
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/contributeurs.svg" alt="contributors" />
     </a>
     <a href="https://github.com/IkramMbz">
-      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/last-commit-01-23.svg" alt="contributors" />
+      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/lst-commit-01-23.svg" alt="last commit" />
     </a>
     <a href="">
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/licence-cc0.svg" alt="cc0" />

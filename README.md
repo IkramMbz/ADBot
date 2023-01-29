@@ -101,6 +101,9 @@
 <br />
 <br />
 <video width="90px" height="90px" src="https://mbechezi.website/wp-content/uploads/2023/01/Train-De-Vies-Emoji-Ikram.mp4" autoplay="" loop="" muted="muted" playsinline="" controlslist="nodownload" style="border-radius:50%"></video>
+<a href="https://mbechezi.website">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
 <br />
 
 ```javascript

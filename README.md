@@ -1,31 +1,29 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/ADBot.webp" width="200" height="auto" />
 	<h1>🤖 Art Downloader Bot 🎨</h1>
-	<p>Un téléchargeur autonome d'images artistiques en haute résolution.</p>
-
-	<div>
-		<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-			<img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-		</a>
-		<a href="">
-			<img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-    		</a>
-		<a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-			<img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-		</a>
-		<a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-			<img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-		</a>
-		<a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-			<img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-		</a>
-		<a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-			<img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-		</a>
-	</div>
-
-	<br />
-	<p align="left">Avant de lancer le code, il est important de noter que le nombre d'images téléchargées en haute résolution peut être très élevé (plus de 100 000). Veuillez vous assurer que vous avez suffisamment d'espace de stockage disponible sur votre disque dur pour stocker ces images, car il est possible que votre disque dur se remplisse rapidement.</p>
+  <p>Un téléchargeur autonome d'images artistiques en haute résolution.</p>
+  <div>
+    <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    </a>
+    <a href="">
+      <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+    </a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+      <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
+    </a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+      <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
+    </a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+      <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
+    </a>
+    <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
+      <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+    </a>
+  </div>
+  <br />
+  <p align="left">Avant de lancer le code, il est important de noter que le nombre d'images téléchargées en haute résolution peut être très élevé (plus de 100 000). Veuillez vous assurer que vous avez suffisamment d'espace de stockage disponible sur votre disque dur pour stocker ces images, car il est possible que votre disque dur se remplisse rapidement.</p>
 </div>
 
 <br />
@@ -102,9 +100,7 @@
 <div class="ikram">
 <br />
 <br />
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-	<video width="90px" height="90px" src="https://mbechezi.website/wp-content/uploads/2023/01/Train-De-Vies-Emoji-Ikram.mp4" autoplay="" loop="" muted="muted" playsinline="" controlslist="nodownload" style="border-radius:50%"></video>
-</a>
+<video width="90px" height="90px" src="https://mbechezi.website/wp-content/uploads/2023/01/Train-De-Vies-Emoji-Ikram.mp4" autoplay="" loop="" muted="muted" playsinline="" controlslist="nodownload" style="border-radius:50%"></video>
 <br />
 
 ```javascript

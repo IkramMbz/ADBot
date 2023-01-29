@@ -29,7 +29,7 @@
 <br />
 <div>
   <h2>Dépendences</h2>
-  <p>Ce script Python utilise librairies suivantes.</p>
+  <p>Ce script Python utilise librairies suivantes :</p>
   <ul>
     <li>csv</li>
     <li>json</li>
@@ -46,7 +46,7 @@
   <p>1. Clonez le répertoire sur votre machine locale.</p>
  
   ```bash
-  git clone https://github.com/your-username/art-downloader.git
+  git clone https://github.com/IkramMbz/ADBot.git
   ```
   
   <br />
@@ -95,4 +95,22 @@
   [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
   
   <p>Ce script est sous licence MIT.<br> N'hésitez pas à l'utiliser pour un usage personnel ou commercial.</p>
+</div>
+
+<br />
+<br />
+<br />
+<div class="ikram">
+<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+</a>
+
+```javascript
+import * from 'my-skills'
+
+function greetings() {
+	👋 Je mets au service de vos projets mes compétences de développeur invétéré mais par-dessus tout :
+  	return <Passion />
+}
+```
 </div>

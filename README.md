@@ -101,7 +101,7 @@
 <br />
 <br />
 <a href="https://mbechezi.website">
-  <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram.webp" />
+  <img width="90px" height="90px" style="border-radius: 50%;" src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/Train-De-Vies-Ikram.webp" />
 </a>
 <br />
 

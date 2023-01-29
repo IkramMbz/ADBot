@@ -3,23 +3,13 @@
 	<h1>🤖 Art Downloader Bot 🎨</h1>
   <p>Un téléchargeur autonome d'images artistiques en haute résolution.</p>
   <div>
-    <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <a href="https://github.com/IkramMbz">
+      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/ADBot.webp" alt="contributors" />
     </a>
     <a href="">
-      <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-      <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-      <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-      <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-    </a>
-    <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-      <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
+      <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="cc0" />
+	    
+	    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102" height="20" role="img" aria-label="license: CC0-1.0"><title>license: CC0-1.0</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="102" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="47" height="20" fill="#555"/><rect x="47" width="55" height="20" fill="#7cd958"/><rect width="102" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="245" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">license</text><text x="245" y="140" transform="scale(.1)" fill="#fff" textLength="370">license</text><text aria-hidden="true" x="735" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">CC0-1.0</text><text x="735" y="140" transform="scale(.1)" fill="#fff" textLength="450">CC0-1.0</text></g></svg>
     </a>
   </div>
   <br />
@@ -28,7 +18,7 @@
 
 <br />
 <div>
-  <h2>Dépendences</h2>
+  <h2>Dépendances</h2>
   <p>Ce script Python utilise librairies suivantes :</p>
   <ul>
     <li>csv</li>

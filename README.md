@@ -4,7 +4,7 @@
   <p>Un téléchargeur autonome d'images artistiques en haute résolution.</p>
   <div>
 
-      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/contributeurs.svg" alt="contributors" />
+    <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/contributeurs.svg" alt="contributors" />
 
     <a href="https://github.com/IkramMbz">
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/lst-commit-01-23.svg" alt="last commit" />

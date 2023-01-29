@@ -7,10 +7,10 @@
       <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/contributor.svg" alt="contributors" />
     </a>
     <a href="https://github.com/IkramMbz">
-      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/commit-01-23.svg" alt="contributors" />
+      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/last-commit-01-23.svg" alt="contributors" />
     </a>
     <a href="">
-      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/cc0.svg" alt="cc0" />
+      <img src="https://raw.githubusercontent.com/IkramMbz/IkramMbz/main/assets/img/licence-cc0.svg" alt="cc0" />
     </a>
   </div>
   <br />

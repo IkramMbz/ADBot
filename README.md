@@ -41,7 +41,7 @@
   ```
   
   <br />
-  <p>2. Installez les librairies requises</p>
+  <p>2. Installez les librairies requises.</p>
   
   ```bash
   pip install -r requirements.txt
@@ -51,7 +51,7 @@
 <br />
 <div>
   <h2>Utilisation</h2>
-  <p>1. Exécutez le script depuis le dossier où il se trouve en utilisant l'invite de commande.</p>
+  <p>1. Exécutez le script.</p>
   
   ```bash
   python adbot.py
@@ -65,6 +65,8 @@
   
   <h3>Note</h3>
   <p>Si une image n'est pas trouvée, le titre de l'illustration sera écrit dans un fichier 'log.txt' pour un téléchargement manuel ultérieur.</p>
+  
+  <p>Vous pouvez télécharger une version plus récente des œuvres (Fichiers objects_text_entries.csv & published_images.cv) qui sont souvent mises à jour <a href="https://github.com/NationalGalleryOfArt/opendata/blob/main/data">ici<a>.</p>
 </div>
 
 <br />

@@ -22,13 +22,13 @@
   <h2>Dépendances</h2>
   <p>Ce script Python utilise librairies suivantes :</p>
   <ul>
-    <li>csv</li>
-    <li>json</li>
-    <li>numpy</li>
-    <li>pathvalidate</li>
-    <li>PIL</li>
-    <li>requests</li>
-    <li>urllib</li>
+    <li>Csv</li>
+    <li>Json</li>
+    <li>Numpy</li>
+    <li>Pathvalidate</li>
+    <li>Pillow</li>
+    <li>Requests</li>
+    <li>Urllib</li>
   </ul>
 </div>
 <br />

@@ -42,7 +42,7 @@
   
   <br />
 
-  <p>2. Ouvrez un terminal et placez vous dans le dossier du projet.</p>
+  <p>2. Ouvrez un terminal et placez-vous dans le dossier du projet.</p>
   <br />
 
   <p>3. Installez les librairies requises.</p>
